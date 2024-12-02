@@ -1,7 +1,0 @@
-default: l3_e1
-build_dir: /Users/amid/embedded/nrf/ncsfund/l3_e1/build
-domains:
-  - name: l3_e1
-    build_dir: /Users/amid/embedded/nrf/ncsfund/l3_e1/build/l3_e1
-flash_order:
-  - l3_e1
